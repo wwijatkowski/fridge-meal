@@ -1,0 +1,23 @@
+{
+  "meals": {
+    "Scrambled eggs": {
+      "egg": 4,
+      "bacon-slices": 3,
+      "chives": 0.5,
+      "butter-in-grams": 20
+    },
+    "sandwiches": {
+      "bread-slices": 5,
+      "butter-in-grams": 30,
+      "ham-in-slices": 5,
+      "tomato": 1,
+      "cucumber": 0.5,
+      "cheese-in-slices": 5
+    },
+    "sweet-sandwiches": {
+      "bread-slices": 5,
+      "jam-in-grams": 30,
+      "honey-in-grams": 20
+    }
+  }
+}
