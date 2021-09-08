@@ -1,5 +1,5 @@
 {
-  "meals": {
+
     "scrambled eggs": {
       "egg": 4,
       "bacon-slices": 3,
@@ -18,6 +18,5 @@
       "bread-slices": 5,
       "jam-in-grams": 30,
       "honey-in-grams": 20
-    }
   }
 }
